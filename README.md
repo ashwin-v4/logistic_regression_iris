@@ -1,3 +1,5 @@
+# Logistic Regression
+
 This is a simple model that uses logistic regression on iris dataset. Iris dataset is a popularly used dataset in ML. Each sample contains,
 0: Setosa
 1: Versicolor
